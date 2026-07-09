@@ -1,5 +1,7 @@
 # 🚗 Otoyol Trafiğinde Şerit Sadakati ve Güvenli Takip Mesafesi Analiz Portalı
 
+![Otoyol Sürüş Güvenliği Analiz Portalı Ekran Görüntüsü](portal_screenshot.png)
+
 Bu proje, görüntü işleme (OpenCV) ve derin öğrenme (YOLOv8) tekniklerini bir arada kullanarak otoyol videoları üzerinden şeritten sapma oranlarını hesaplayan ve güvenli takip mesafesi analizi gerçekleştiren Streamlit tabanlı bir web portalıdır.
 
 ## 🌟 Özellikler
