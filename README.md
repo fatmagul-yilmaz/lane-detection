@@ -21,3 +21,7 @@ Bu proje, görüntü işleme (OpenCV) ve derin öğrenme (YOLOv8) tekniklerini b
 Görüntü işleme ve YOLOv8 entegrasyonu tamamlanmış, şerit sadakati ve takip mesafesi analizini içeren 1107 frame'lik final çıktısını izlemek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
 
 🔗 **[Google Drive - Proje Sonuç Videosunu İzle](https://drive.google.com/file/d/1fZ4kD2pnshnhxNnEuvPHgf9TM_WXEB21/view?usp=sharing)**
+
+---
+
+👩‍💻 **Geliştirici:** Fatmagül Yılmaz
